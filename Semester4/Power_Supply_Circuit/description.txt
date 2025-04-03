@@ -1,1 +1,3 @@
-In this project i have put the concept of converting AC into DC , by implementing a power supply circuit in Proteus
+In this project, i have put the concept of converting AC into DC , by implementing a power supply circuit in Proteus
+There are two files one is Proteus software and othr is Multisim
+Multisim file includes proper input output simulation and values , both circuits images have been attached in this repository
