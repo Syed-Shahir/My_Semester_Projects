@@ -1,0 +1,1 @@
+This project focuses on explaining the basics of Graph Theory in Data Structures and Algorithms (DSA), along with an introduction to the STL (Standard Template Library) implementation of graphs using C++.
