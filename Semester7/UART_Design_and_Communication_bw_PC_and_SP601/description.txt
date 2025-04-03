@@ -1,0 +1,14 @@
+1. Objectives of the Project: 
+• To design and implement UART communication between a PC and the SP601 FPGA evaluation 
+board. 
+• To use a USB-UART bridge for data transmission between the devices. 
+• To design custom transmitter and receiver modules in Verilog. 
+• To validate the design through a functional testbench simulation. 
+2. Introduction: 
+Universal Asynchronous Receiver-Transmitter (UART) is a widely used serial communication protocol for 
+data exchange between devices. Unlike synchronous communication, UART does not require a shared clock 
+signal. Instead, it uses start and stop bits for synchronization. 
+In this project, we aim to establish UART communication between a PC and an SP601 evaluation board, 
+which is based on the Xilinx Spartan-6 FPGA, using a USB-UART bridge. This design will help 
+demonstrate how UART communication works, utilizing a USB-to-UART converter to interface between the 
+FPGA and the PC
