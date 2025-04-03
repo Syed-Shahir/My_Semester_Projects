@@ -40,7 +40,9 @@ This repository contains all the semester-wise projects completed during my bach
 - 📊 **Analyzing Noisy Signal and Designing Different Filters** – Signal processing techniques for noise reduction.  
 - 🏠 **Hybrid-Mode Appliance Control and Monitoring System** – A hybrid IoT-based home automation system.  
 - 🔄 **Random Network Simulation using OMNeT++** – Network simulation and performance analysis.  
-- 🔗 **UART Design and Communication between PC and SP601** – UART-based serial communication project.  
+- 🔗 **UART Design and Communication between PC and SP601** – UART-based serial communication project.
+### **Semester 8**  
+-  **Will be added soon!!!** 
 
 ## **📌 About this Repository**  
 This repository serves as a consolidated archive of my academic projects, showcasing my progress in various domains. Each project contains detailed documentation, source code, and relevant materials for reference.  
