@@ -1,0 +1,48 @@
+`timescale 1ns / 1ps
+module Processor_SIM;
+
+	// Inputs
+	reg clock;
+	reg reset;
+
+	// Outputs
+	wire zero;
+	wire [31:0] instruction_code;
+	wire [3:0] alu_control;
+	wire regwrite;
+	wire [31:0] PC;
+	wire [4:0] read_reg_num1;
+	wire [4:0] read_reg_num2;
+	wire [31:0] read_data1;
+	wire [31:0] read_data2;
+	wire [31:0] write_data;
+	wire [4:0] write_reg;
+
+	// Instantiate the Unit Under Test (UUT)
+	PROCESSOR uut (
+		.clock(clock), 
+		.reset(reset), 
+		.zero(zero), 
+		.instruction_code(instruction_code), 
+		.alu_control(alu_control), 
+		.regwrite(regwrite), 
+		.PC(PC), 
+		.read_reg_num1(read_reg_num1), 
+		.read_reg_num2(read_reg_num2), 
+		.read_data1(read_data1), 
+		.read_data2(read_data2), 
+		.write_data(write_data), 
+		.write_reg(write_reg)
+	);
+
+	initial begin
+		reset = 1;
+		#50
+		reset = 0;
+end
+initial begin
+      clock = 0;
+		forever #20 clock = ~clock;
+end
+      
+endmodule 

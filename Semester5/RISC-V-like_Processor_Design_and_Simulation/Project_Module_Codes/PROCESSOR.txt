@@ -1,0 +1,36 @@
+`include "CONTROL.v"
+`include "DATAPATH.v"
+`include "IFU.v"
+
+
+module PROCESSOR( 
+    input clock, 
+    input reset,
+    output zero,
+	// output  [31:0] instruction_code
+	
+
+
+   output wire [31:0] instruction_code,
+   output wire [3:0] alu_control,
+   output wire regwrite,
+	output [31:0] PC,
+	output [4:0] read_reg_num1,
+	output [4:0] read_reg_num2,
+	output [31:0] read_data1,
+	output [31:0] read_data2,
+	output [31:0] write_data,
+	output [4:0] write_reg
+);
+assign read_reg_num1 = instruction_code[19:15];
+assign read_reg_num2 = instruction_code[24:20];
+assign write_reg = instruction_code[11:7];
+
+
+    IFU IFU_module(clock, reset, instruction_code, PC);
+	
+    CONTROL control_module(instruction_code[31:25], instruction_code[14:12],instruction_code[6:0], alu_control, regwrite);
+	
+    DATAPATH datapath_module(instruction_code[19:15], instruction_code[24:20], instruction_code[11:7], alu_control, regwrite, clock, reset, zero,read_data1,read_data2,write_data);
+
+endmodule 
