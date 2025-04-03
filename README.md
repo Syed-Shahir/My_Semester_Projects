@@ -45,4 +45,7 @@ This repository contains all the semester-wise projects completed during my bach
 ## **📌 About this Repository**  
 This repository serves as a consolidated archive of my academic projects, showcasing my progress in various domains. Each project contains detailed documentation, source code, and relevant materials for reference.  
 
-🚀 **Feel free to explore, contribute, or use these projects for learning purposes!**  
+🚀 **Feel free to explore, contribute, or use these projects for learning purposes! If you're interested in collaboration or project work, feel free to reach out to me:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/syedshahir)  
+📸 [Instagram](https://www.instagram.com/syed._.shahir)  
+📧 [Email](mailto:s.m.shaheer.ul.haq@gmail.com)  
