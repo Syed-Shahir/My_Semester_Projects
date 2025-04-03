@@ -1,0 +1,45 @@
+1. Objectives of project: 
+Develop an Interactive Audio Filter GUI: 
+• Create a user-friendly graphical interface for real-time audio signal processing, allowing users to load, 
+visualize, and modify audio signals. 
+ Implement Multiple Filter Types: 
+• Integrate various filter types (Lowpass, Highpass, Bandpass, Bandstop and Moving average filter) to 
+manipulate audio signals for diverse applications, such as noise reduction or frequency isolation. 
+Enable Real-Time Noise Adjustment and Removal: 
+• Provide functionality to add and adjust noise levels in the audio signal, as well as remove noise to 
+restore the original signal, offering real-time manipulation and visualization. 
+ Visualize Audio Signals in Time and Frequency Domains: 
+• Implement real-time visualization of audio signals in both time and frequency domains using the Fast 
+Fourier Transform (FFT) and filter frequency response plots. 
+Allow Playback and Pause of Processed Audio: 
+• Enable users to play and pause the processed audio, with the option to switch between original and 
+filtered versions, making it easier to assess the impact of different filters. 
+Provide Customizable Filter Parameters: 
+• Allow users to adjust filter parameters such as cutoff frequencies for lowpass, highpass, and band filters, 
+enhancing flexibility in signal processing. 
+2. Introduction: 
+In the field of digital signal processing (DSP), audio signals are often manipulated and filtered to achieve desired 
+effects or to remove unwanted noise. Audio filtering plays a crucial role in a wide range of applications, from 
+music production to speech enhancement and medical signal processing. The effectiveness of audio processing 
+largely depends on the flexibility and precision of the tools used. In this context, a graphical user interface (GUI) 
+provides an intuitive way for users to interact with complex signal processing algorithms without requiring deep 
+technical expertise. 
+This project focuses on the development of an Interactive Audio Filter GUI that allows users to load, visualize, 
+filter, and manipulate audio signals in real-time. The system offers a variety of filtering options, including 
+Lowpass, Highpass, Bandpass, Bandstop and Moving Average filters, providing users with the ability to isolate 
+or attenuate specific frequencies within an audio signal. Additionally, the system enables real-time noise 
+adjustment and removal, simulating different noise conditions and providing an option to restore the original 
+signal. 
+By integrating advanced signal processing techniques with a user-friendly interface, this project aims to enhance 
+the accessibility of audio filtering tools. It provides a flexible platform for exploring the effects of different filters, 
+observing their impact in both the time domain (signal waveform) and frequency domain (FFT analysis). The 
+system also features a play/pause functionality, enabling users to listen to both the original and filtered audio in 
+real-time, making it ideal for audio engineers, researchers, and students. 
+The core objective of this project is to provide an easy-to-use but powerful tool for interactive audio signal 
+processing. It offers the flexibility to adjust various filter parameters dynamically, making it useful for a range of 
+practical applications, from noise reduction in recordings to sound design for multimedia projects. The system is 
+designed to be cross-platform, ensuring that it is accessible to a broad audience. 
+This project demonstrates the integration of digital signal processing algorithms with a graphical user 
+interface, providing both the technical robustness needed for audio processing and the user-cantered design that 
+simplifies its operation. It serves as a foundation for further exploration into advanced audio filtering techniques, 
+as well as potential applications in other domains such as telecommunications and medical diagnostics. 
