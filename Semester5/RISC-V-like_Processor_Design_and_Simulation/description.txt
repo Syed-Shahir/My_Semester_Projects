@@ -1,0 +1,9 @@
+-> This project aims to achieve key objectives:
+1) Simulation and Understanding of RISC-V Architecture:
+2) Implementing a simplified RISC-V processor using Verilog HDL.
+3) Simulating and analyzing its core principles to enhance comprehension.
+-> Logical Circuit Design in Logisim:
+1) Designing and visualizing logical circuitry within the Logisim tool.
+2) Demonstrating the processor's functionality through circuit simulation.
+
+This work was inspired by an existing GitHub project repository. We modified the original Verilog code to ensure compatibility with Xilinx ISE for simulation and execution. Additionally, enhancements were made to the simulation, introducing extra parameters for better visualization and a deeper understanding of the complete working and concepts of the RISC-V architecture.
