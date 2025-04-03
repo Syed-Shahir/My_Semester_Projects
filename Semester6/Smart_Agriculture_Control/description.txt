@@ -1,0 +1,7 @@
+Background:
+Agriculture is the backbone of the economy in many countries, playing a crucial role in providing food, raw materials, and employment. However, traditional farming methods face numerous challenges such as inefficient resource usage, unpredictable weather patterns, and labor shortages. To address these issues, modern technology is being integrated into agricultural practices, leading to the emergence of "smart agriculture."our project also aim to contribute to the idea of smart agriculture system.
+Introduction:
+Smart Agriculture Control, aims to develop a system that automates and optimizes various agricultural processes using modern technology. The system is designed to monitor critical environmental parameters such as temperature, soil moisture, and humidity, and to control devices like fans and water pumps based on the real-time data collected.
+
+
+  this project was created in Proteus and detailed report is attached with this repository
