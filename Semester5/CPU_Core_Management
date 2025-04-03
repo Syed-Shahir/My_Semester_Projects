@@ -1,0 +1,1 @@
+The project centers around the development of a Bash script that harnesses system statistics to predict CPU usage, dynamically toggle CPU cores, and estimate energy consumption. These functionalities aim to provide insights into resource utilization and optimize energy efficiency within the system.
