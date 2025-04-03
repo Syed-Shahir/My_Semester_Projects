@@ -1,0 +1,39 @@
+module tx (
+  input        reset,
+  input        txclk,
+  input        ld_tx_data,
+  input  [7:0] tx_data,
+  input        tx_enable,
+  output reg   tx_out,
+  output reg   tx_empty
+);
+  reg [7:0] tx_reg;
+  reg [3:0] tx_cnt;
+
+  always @ (posedge txclk or posedge reset) begin
+    if (reset) begin
+      tx_reg    <= 0;
+      tx_empty  <= 1;
+      tx_out    <= 1;
+      tx_cnt    <= 0;
+    end else begin
+      if (ld_tx_data) begin
+        if (tx_empty) begin
+          tx_reg   <= tx_data;
+          tx_empty <= 0;
+        end
+      end
+      if (tx_enable && !tx_empty) begin
+        tx_cnt <= tx_cnt + 1;
+        if (tx_cnt == 0) tx_out <= 0; // Start bit
+        if (tx_cnt > 0 && tx_cnt < 9) tx_out <= tx_reg[tx_cnt - 1]; // Data bits
+        if (tx_cnt == 9) begin
+          tx_out <= 1; // Stop bit
+          tx_cnt <= 0;
+          tx_empty <= 1;
+        end
+      end
+      if (!tx_enable) tx_cnt <= 0;
+    end
+  end
+endmodule

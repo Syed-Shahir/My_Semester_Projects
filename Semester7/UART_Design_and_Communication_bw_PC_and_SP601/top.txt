@@ -1,0 +1,35 @@
+module uart (
+  input        reset,
+  input        txclk,
+  input        ld_tx_data,
+  input  [7:0] tx_data,
+  input        tx_enable,
+  output       tx_out,
+  output       tx_empty,
+  input        rxclk,
+  input        uld_rx_data,
+  output [7:0] rx_data,
+  input        rx_enable,
+  input        rx_in,
+  output       rx_empty
+);
+  tx tx_inst (
+    .reset(reset),
+    .txclk(txclk),
+    .ld_tx_data(ld_tx_data),
+    .tx_data(tx_data),
+    .tx_enable(tx_enable),
+    .tx_out(tx_out),
+    .tx_empty(tx_empty)
+  );
+
+  rx rx_inst (
+    .reset(reset),
+    .rxclk(rxclk),
+    .rx_enable(rx_enable),
+    .rx_in(rx_in),
+    .uld_rx_data(uld_rx_data),
+    .rx_data(rx_data),
+    .rx_empty(rx_empty)
+  );
+endmodule
