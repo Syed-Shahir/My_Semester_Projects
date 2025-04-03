@@ -1,0 +1,1 @@
+This was a Digital Logic Design (DLD) project where we developed an Automatic Water Pump Controller. Detailed presentations and reports are included in this repository
