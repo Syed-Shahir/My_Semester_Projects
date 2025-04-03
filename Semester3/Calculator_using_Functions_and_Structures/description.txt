@@ -1,0 +1,1 @@
+in this minor project i have coded a calculator using the concept of functions and structures
