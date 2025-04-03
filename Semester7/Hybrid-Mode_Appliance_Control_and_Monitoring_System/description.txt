@@ -1,0 +1,14 @@
+Traditional appliance control systems, often limited by manual switches or wired remotes, fail to 
+offer flexibility, efficiency, and remote monitoring capabilities. These systems are static, require 
+physical proximity, and do not integrate well with modern technological advances, such as wireless 
+connectivity or IoT. As technology continues to evolve, there is a growing demand for more 
+dynamic, user-friendly, and remotely accessible solutions for appliance control and monitoring. 
+This project aims to address these limitations by developing a Hybrid-Mode Appliance Control 
+and Monitoring System using a touch panel and a Wi-Fi app. The proposed system will allow 
+users to control and monitor appliances both locally and remotely, offering a scalable and flexible 
+solution that can integrate into future IoT ecosystems. The system will enhance the convenience, 
+efficiency, and accessibility of appliance management, making it more adaptable to modern 
+lifestyles.
+
+  the video demo of this project can be found from the following link 
+  https://youtu.be/oSfar9TSasI?feature=shared
