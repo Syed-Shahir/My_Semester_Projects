@@ -1,0 +1,14 @@
+This project details the comprehensive development of a quadcopter controlled by an 
+Arduino-based flight system. Utilizing an Arduino UNO paired with an MPU 6050 sensor for 
+the flight controller, and Arduino Nano with NRF24L01+ modules for both transmitting and 
+receiving signals, we have established a robust control architecture. The transmitter system 
+captures joystick inputs and transmits them wirelessly. The receiver processes these signals 
+and communicates with the flight controller. The flight controller uses the MPU 6050 data to 
+stabilize the quadcopter and adjust motor speeds through ESCs. Mathematical modeling, 
+including Newton-Euler equations, supports the theoretical foundation for quadcopter 
+dynamics and stabilization using PID control. This setup demonstrates a practical and 
+scalable approach to building and controlling quadcopters, emphasizing the integration of 
+sensors, wireless communication, and control algorithms. 
+
+  the project was completed with the help of Online Youtube toturials and aricles
+  The detailed report of this project is attached 
