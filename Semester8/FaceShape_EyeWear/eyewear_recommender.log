@@ -1,0 +1,360 @@
+2026-07-16 20:33:14,512 - INFO - Camera options populated.
+2026-07-16 20:33:14,730 - INFO - FaceRecognitionApp initialized.
+2026-07-16 20:33:14,800 - INFO - Application started.
+2026-07-16 20:33:16,443 - INFO - VideoWorker initialized.
+2026-07-16 20:33:16,443 - INFO - Frame image cleared.
+2026-07-16 20:33:16,448 - INFO - Camera started.
+2026-07-16 20:33:16,528 - INFO - Camera 0 started.
+2026-07-16 20:33:17,401 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.77
+2026-07-16 20:33:17,402 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,437 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:17,439 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,475 - INFO - Face Shape Ratios: aspect_ratio=1.14, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:17,475 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,506 - INFO - Face Shape Ratios: aspect_ratio=1.14, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:17,506 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,545 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.93, forehead_to_jaw=0.81, forehead_to_cheek=0.76
+2026-07-16 20:33:17,545 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,595 - INFO - Face Shape Ratios: aspect_ratio=1.12, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:17,595 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,645 - INFO - Face Shape Ratios: aspect_ratio=1.12, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:17,645 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,688 - INFO - Face Shape Ratios: aspect_ratio=1.12, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:17,688 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,734 - INFO - Face Shape Ratios: aspect_ratio=1.12, jaw_to_cheek=0.92, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:17,734 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,782 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:17,783 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,840 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.93, forehead_to_jaw=0.81, forehead_to_cheek=0.75
+2026-07-16 20:33:17,840 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,868 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.93, forehead_to_jaw=0.81, forehead_to_cheek=0.75
+2026-07-16 20:33:17,868 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,904 - INFO - Face Shape Ratios: aspect_ratio=1.14, jaw_to_cheek=0.93, forehead_to_jaw=0.81, forehead_to_cheek=0.75
+2026-07-16 20:33:17,904 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,952 - INFO - Face Shape Ratios: aspect_ratio=1.14, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:17,952 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:17,999 - INFO - Face Shape Ratios: aspect_ratio=1.14, jaw_to_cheek=0.93, forehead_to_jaw=0.83, forehead_to_cheek=0.77
+2026-07-16 20:33:17,999 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,042 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:18,042 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,076 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:18,076 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,117 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.93, forehead_to_jaw=0.81, forehead_to_cheek=0.76
+2026-07-16 20:33:18,117 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,149 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.93, forehead_to_jaw=0.81, forehead_to_cheek=0.75
+2026-07-16 20:33:18,149 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,244 - INFO - Face Shape Ratios: aspect_ratio=1.14, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:18,245 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,279 - INFO - Face Shape Ratios: aspect_ratio=1.14, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:18,279 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,328 - INFO - Face Shape Ratios: aspect_ratio=1.14, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:18,328 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,375 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:18,375 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,420 - INFO - Face Shape Ratios: aspect_ratio=1.14, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:18,420 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,462 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.93, forehead_to_jaw=0.82, forehead_to_cheek=0.76
+2026-07-16 20:33:18,462 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,546 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.93, forehead_to_jaw=0.83, forehead_to_cheek=0.77
+2026-07-16 20:33:18,546 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,574 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.93, forehead_to_jaw=0.83, forehead_to_cheek=0.77
+2026-07-16 20:33:18,576 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,611 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.93, forehead_to_jaw=0.83, forehead_to_cheek=0.77
+2026-07-16 20:33:18,611 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,658 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.92, forehead_to_jaw=0.85, forehead_to_cheek=0.78
+2026-07-16 20:33:18,658 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,703 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.92, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:18,704 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,751 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.93, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:18,752 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,799 - INFO - Face Shape Ratios: aspect_ratio=1.14, jaw_to_cheek=0.92, forehead_to_jaw=0.85, forehead_to_cheek=0.78
+2026-07-16 20:33:18,799 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,849 - INFO - Face Shape Ratios: aspect_ratio=1.14, jaw_to_cheek=0.92, forehead_to_jaw=0.85, forehead_to_cheek=0.78
+2026-07-16 20:33:18,849 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,893 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.93, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:18,893 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,948 - INFO - Face Shape Ratios: aspect_ratio=1.12, jaw_to_cheek=0.93, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:18,948 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:18,987 - INFO - Face Shape Ratios: aspect_ratio=1.11, jaw_to_cheek=0.93, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:18,987 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,035 - INFO - Face Shape Ratios: aspect_ratio=1.11, jaw_to_cheek=0.93, forehead_to_jaw=0.84, forehead_to_cheek=0.78
+2026-07-16 20:33:19,035 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,085 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.92, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:19,085 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,130 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:19,130 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,175 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:19,175 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,249 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.84, forehead_to_cheek=0.78
+2026-07-16 20:33:19,249 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,280 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.85, forehead_to_cheek=0.78
+2026-07-16 20:33:19,280 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,312 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:19,313 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,350 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:19,350 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,399 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:19,399 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,449 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:19,449 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,560 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:19,560 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,605 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:19,605 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,650 - INFO - Face Shape Ratios: aspect_ratio=1.11, jaw_to_cheek=0.90, forehead_to_jaw=0.86, forehead_to_cheek=0.78
+2026-07-16 20:33:19,650 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,752 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.91, forehead_to_jaw=0.86, forehead_to_cheek=0.78
+2026-07-16 20:33:19,752 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,790 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.91, forehead_to_jaw=0.86, forehead_to_cheek=0.78
+2026-07-16 20:33:19,790 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,837 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.91, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:19,837 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,883 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.90, forehead_to_jaw=0.87, forehead_to_cheek=0.79
+2026-07-16 20:33:19,883 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,917 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.91, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:19,930 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:19,960 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.91, forehead_to_jaw=0.88, forehead_to_cheek=0.80
+2026-07-16 20:33:19,960 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,055 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.91, forehead_to_jaw=0.85, forehead_to_cheek=0.78
+2026-07-16 20:33:20,055 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,088 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.92, forehead_to_jaw=0.87, forehead_to_cheek=0.79
+2026-07-16 20:33:20,088 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,131 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.87, forehead_to_cheek=0.79
+2026-07-16 20:33:20,131 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,160 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.91, forehead_to_jaw=0.87, forehead_to_cheek=0.79
+2026-07-16 20:33:20,160 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,189 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:20,189 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,221 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:20,221 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,258 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.91, forehead_to_jaw=0.87, forehead_to_cheek=0.78
+2026-07-16 20:33:20,258 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,289 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.91, forehead_to_jaw=0.87, forehead_to_cheek=0.79
+2026-07-16 20:33:20,290 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,321 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.91, forehead_to_jaw=0.87, forehead_to_cheek=0.79
+2026-07-16 20:33:20,321 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,346 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.90, forehead_to_jaw=0.85, forehead_to_cheek=0.77
+2026-07-16 20:33:20,346 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,384 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.86, forehead_to_cheek=0.77
+2026-07-16 20:33:20,384 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,408 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.90, forehead_to_jaw=0.87, forehead_to_cheek=0.78
+2026-07-16 20:33:20,408 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,444 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.90, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:33:20,444 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:20,471 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.90, forehead_to_jaw=0.90, forehead_to_cheek=0.81
+2026-07-16 20:33:20,471 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:20,508 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.90, forehead_to_jaw=0.90, forehead_to_cheek=0.81
+2026-07-16 20:33:20,508 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:20,555 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.90, forehead_to_jaw=0.86, forehead_to_cheek=0.78
+2026-07-16 20:33:20,555 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,599 - INFO - Face Shape Ratios: aspect_ratio=1.11, jaw_to_cheek=0.89, forehead_to_jaw=0.88, forehead_to_cheek=0.78
+2026-07-16 20:33:20,599 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,647 - INFO - Face Shape Ratios: aspect_ratio=1.13, jaw_to_cheek=0.91, forehead_to_jaw=0.88, forehead_to_cheek=0.80
+2026-07-16 20:33:20,647 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:20,753 - INFO - Face Shape Ratios: aspect_ratio=1.11, jaw_to_cheek=0.92, forehead_to_jaw=0.87, forehead_to_cheek=0.80
+2026-07-16 20:33:20,753 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,789 - INFO - Face Shape Ratios: aspect_ratio=1.10, jaw_to_cheek=0.92, forehead_to_jaw=0.87, forehead_to_cheek=0.80
+2026-07-16 20:33:20,789 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,837 - INFO - Face Shape Ratios: aspect_ratio=1.10, jaw_to_cheek=0.92, forehead_to_jaw=0.87, forehead_to_cheek=0.80
+2026-07-16 20:33:20,837 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,887 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.91, forehead_to_jaw=0.87, forehead_to_cheek=0.80
+2026-07-16 20:33:20,887 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:20,935 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.88, forehead_to_cheek=0.81
+2026-07-16 20:33:20,935 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:20,981 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.91, forehead_to_jaw=0.87, forehead_to_cheek=0.79
+2026-07-16 20:33:20,982 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,310 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:21,311 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,314 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.92, forehead_to_jaw=0.88, forehead_to_cheek=0.81
+2026-07-16 20:33:21,314 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,316 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.88, forehead_to_cheek=0.80
+2026-07-16 20:33:21,316 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,319 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:21,319 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,324 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.88, forehead_to_cheek=0.81
+2026-07-16 20:33:21,324 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,326 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.87, forehead_to_cheek=0.80
+2026-07-16 20:33:21,326 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,536 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:21,536 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,538 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.88, forehead_to_cheek=0.81
+2026-07-16 20:33:21,538 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,540 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.87, forehead_to_cheek=0.80
+2026-07-16 20:33:21,540 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,544 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:21,544 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,547 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.92, forehead_to_jaw=0.87, forehead_to_cheek=0.81
+2026-07-16 20:33:21,556 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,559 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.88, forehead_to_cheek=0.81
+2026-07-16 20:33:21,559 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,580 - INFO - Face Shape Ratios: aspect_ratio=1.20, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:21,581 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,599 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.93, forehead_to_jaw=0.87, forehead_to_cheek=0.80
+2026-07-16 20:33:21,599 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,629 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:21,629 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,662 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:21,662 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,690 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:21,691 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,723 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:21,723 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,753 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.93, forehead_to_jaw=0.87, forehead_to_cheek=0.81
+2026-07-16 20:33:21,753 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,792 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.93, forehead_to_jaw=0.87, forehead_to_cheek=0.80
+2026-07-16 20:33:21,792 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,838 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:21,838 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,887 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:21,888 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:21,901 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:21,901 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,934 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:21,934 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:21,978 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.87, forehead_to_cheek=0.81
+2026-07-16 20:33:21,979 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:22,024 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.87, forehead_to_cheek=0.80
+2026-07-16 20:33:22,025 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:22,055 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.87, forehead_to_cheek=0.80
+2026-07-16 20:33:22,055 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:22,086 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.93, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:22,086 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,130 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:22,130 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,170 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:22,170 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,235 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:22,235 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,293 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:22,294 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,339 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:22,339 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,371 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:22,371 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,417 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:22,417 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,448 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:22,448 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,546 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:22,547 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,691 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.93, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:22,692 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,695 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.93, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:22,695 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,749 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:22,749 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,777 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:22,778 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,808 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:22,808 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:33:22,840 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:22,840 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,873 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:22,873 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,905 - INFO - Face Shape Ratios: aspect_ratio=1.18, jaw_to_cheek=0.93, forehead_to_jaw=0.86, forehead_to_cheek=0.80
+2026-07-16 20:33:22,905 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,941 - INFO - Face Shape Ratios: aspect_ratio=1.20, jaw_to_cheek=0.93, forehead_to_jaw=0.85, forehead_to_cheek=0.79
+2026-07-16 20:33:22,942 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:22,989 - INFO - Face Shape Ratios: aspect_ratio=1.20, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:22,989 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:23,036 - INFO - Face Shape Ratios: aspect_ratio=1.21, jaw_to_cheek=0.92, forehead_to_jaw=0.86, forehead_to_cheek=0.79
+2026-07-16 20:33:23,036 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:23,075 - INFO - Face Shape Ratios: aspect_ratio=1.19, jaw_to_cheek=0.93, forehead_to_jaw=0.84, forehead_to_cheek=0.78
+2026-07-16 20:33:23,076 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:23,108 - INFO - Face Shape Ratios: aspect_ratio=1.20, jaw_to_cheek=0.93, forehead_to_jaw=0.84, forehead_to_cheek=0.78
+2026-07-16 20:33:23,108 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:23,140 - INFO - Face Shape Ratios: aspect_ratio=1.20, jaw_to_cheek=0.93, forehead_to_jaw=0.84, forehead_to_cheek=0.78
+2026-07-16 20:33:23,141 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:23,175 - INFO - Face Shape Ratios: aspect_ratio=1.21, jaw_to_cheek=0.93, forehead_to_jaw=0.84, forehead_to_cheek=0.78
+2026-07-16 20:33:23,176 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:23,278 - INFO - Face Shape Ratios: aspect_ratio=1.20, jaw_to_cheek=0.93, forehead_to_jaw=0.84, forehead_to_cheek=0.78
+2026-07-16 20:33:23,279 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:23,282 - INFO - Face Shape Ratios: aspect_ratio=1.21, jaw_to_cheek=0.93, forehead_to_jaw=0.84, forehead_to_cheek=0.78
+2026-07-16 20:33:23,282 - INFO - Classified face shape: Diamond (score=3)
+2026-07-16 20:33:23,622 - INFO - VideoWorker stopped.
+2026-07-16 20:33:23,622 - INFO - Application closed.
+2026-07-16 20:34:35,898 - INFO - Camera options populated.
+2026-07-16 20:34:36,111 - INFO - FaceRecognitionApp initialized.
+2026-07-16 20:34:36,183 - INFO - Application started.
+2026-07-16 20:34:37,937 - INFO - VideoWorker initialized.
+2026-07-16 20:34:37,937 - INFO - Frame image cleared.
+2026-07-16 20:34:37,939 - INFO - Camera started.
+2026-07-16 20:34:38,017 - INFO - Camera 0 started.
+2026-07-16 20:34:38,879 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.89, forehead_to_cheek=0.82
+2026-07-16 20:34:38,879 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:38,920 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.91, forehead_to_jaw=0.91, forehead_to_cheek=0.83
+2026-07-16 20:34:38,931 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:38,955 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.91, forehead_to_jaw=0.91, forehead_to_cheek=0.83
+2026-07-16 20:34:38,955 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:38,991 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.91, forehead_to_jaw=0.91, forehead_to_cheek=0.83
+2026-07-16 20:34:38,991 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,031 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,031 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,067 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,067 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,101 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,101 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,128 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,129 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,162 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.91, forehead_to_jaw=0.89, forehead_to_cheek=0.82
+2026-07-16 20:34:39,162 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,199 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,199 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,224 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.89, forehead_to_cheek=0.81
+2026-07-16 20:34:39,224 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,269 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,270 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,312 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.89, forehead_to_cheek=0.82
+2026-07-16 20:34:39,312 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,362 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.91, forehead_to_cheek=0.83
+2026-07-16 20:34:39,362 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,407 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.91, forehead_to_cheek=0.82
+2026-07-16 20:34:39,407 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,445 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,445 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,532 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,532 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,575 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.92, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,575 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,605 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.92, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,628 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,633 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,633 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,669 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.89, forehead_to_cheek=0.82
+2026-07-16 20:34:39,669 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,698 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.89, forehead_to_cheek=0.82
+2026-07-16 20:34:39,698 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,730 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.83
+2026-07-16 20:34:39,730 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,767 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,767 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,807 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.91, forehead_to_jaw=0.91, forehead_to_cheek=0.83
+2026-07-16 20:34:39,807 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,838 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.89, forehead_to_cheek=0.82
+2026-07-16 20:34:39,838 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,872 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.83
+2026-07-16 20:34:39,872 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,899 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,899 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,927 - INFO - Face Shape Ratios: aspect_ratio=1.15, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,927 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:39,968 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:39,968 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:40,020 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:40,020 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:40,065 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:40,065 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:40,112 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:40,112 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:40,156 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:40,156 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:40,246 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.92, forehead_to_jaw=0.89, forehead_to_cheek=0.82
+2026-07-16 20:34:40,246 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:40,285 - INFO - Face Shape Ratios: aspect_ratio=1.17, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:40,285 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:40,356 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.91, forehead_to_jaw=0.90, forehead_to_cheek=0.82
+2026-07-16 20:34:40,357 - INFO - Classified face shape: Oval (score=3)
+2026-07-16 20:34:40,703 - INFO - VideoWorker stopped.
+2026-07-16 20:34:40,703 - INFO - Application closed.
+2026-07-16 20:34:40,719 - INFO - Face Shape Ratios: aspect_ratio=1.16, jaw_to_cheek=0.92, forehead_to_jaw=0.89, forehead_to_cheek=0.82
+2026-07-16 20:34:40,719 - INFO - Classified face shape: Oval (score=3)
