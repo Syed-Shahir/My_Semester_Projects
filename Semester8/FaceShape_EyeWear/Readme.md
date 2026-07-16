@@ -23,3 +23,8 @@ Due to specific dependency requirements for the computer vision backends, it is 
 ```bash
 conda create -n eyewear_recommender python=3.10 -y
 conda activate eyewear_recommender
+pip install numpy==1.26.4
+pip install opencv-python==4.9.0.80
+pip install mediapipe==0.10.14
+pip install protobuf==4.25.3
+pip install PyQt5
