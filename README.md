@@ -41,8 +41,8 @@ This repository contains all the semester-wise projects completed during my bach
 - 🏠 **Hybrid-Mode Appliance Control and Monitoring System** – A hybrid IoT-based home automation system.  
 - 🔄 **Random Network Simulation using OMNeT++** – Network simulation and performance analysis.  
 - 🔗 **UART Design and Communication between PC and SP601** – UART-based serial communication project.
-### **Semester 8**  
--  **Will be added soon!!!** 
+### **Semester 8** 
+- 👓 **Smart Eyewear Recommender System** – AI-driven computer vision tool for real-time facial anthropometric measurements and personalized eyewear frame recommendations.
 
 ## **📌 About this Repository**  
 This repository serves as a consolidated archive of my academic projects, showcasing my progress in various domains. Each project contains detailed documentation, source code, and relevant materials for reference.  
